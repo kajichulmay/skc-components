@@ -1,0 +1,25 @@
+{
+  "name": "skc-component",
+  "version": "1.0.0",
+  "description": "component in project ",
+  "main": "dist/skc-components.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajichulmay/skc-components.git"
+  },
+  "keywords": [
+    "SKC-COMPONETS"
+  ],
+  "author": "chonthicha sangcharean (kajichulmay)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajichulmay/skc-components/issues"
+  },
+  "homepage": "https://github.com/kajichulmay/skc-components#readme",
+  "dependencies": {
+    "reactstrap": "^9.2.0"
+  }
+}
