@@ -1,7 +1,7 @@
 {
-  "name": "skc-component",
+  "name": "skc-react-component",
   "version": "1.0.0",
-  "description": "component in project ",
+  "description": " react component in project ",
   "main": "dist/skc-components.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,10 @@
     "url": "https://github.com/kajichulmay/skc-components/issues"
   },
   "homepage": "https://github.com/kajichulmay/skc-components#readme",
-  "dependencies": {
-    "reactstrap": "^9.2.0"
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "reactstrap": "^9.2.0",
+    "typescript": "^5.2.2"
   }
 }
